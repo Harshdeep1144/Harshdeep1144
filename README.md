@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Harshdeep1144
+Hi, I’m @Harshdeep1144
 
