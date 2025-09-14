@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdeep1144&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdeep1144&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdeep1144&theme=tokyonight&hide_border=true" height="165" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeep1144&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeep1144&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
