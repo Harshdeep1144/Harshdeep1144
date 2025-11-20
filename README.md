@@ -39,7 +39,7 @@
     height="165"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=harshdeep1144&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=harshdeep1144&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=harshdeep1144&theme=tokyonight&hide_border=true"
     height="165"
   />
   <img 
