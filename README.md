@@ -9,20 +9,24 @@
 - 🎯 Skilled in **Kotlin, Java, C++, Python, Firebase, REST APIs, RBAC, MVVM/Clean Architecture**  
 - 🚀 Always learning and exploring **AI, Object Detection, and Real life Problems**  
 - 🤝 Open to collaborations on unique and impactful projects
-- 🏅 Awarded **Best Collaborative Development** [BharatTech Hackathon 3.0](https://gdg.community.dev/events/details/google-gdg-on-campus-swami-vivekanand-institute-of-engineering-technology-chandigarh-india-presents-bharat-techxperience-30-national-level-30hrs-hackathon/)
+- 🏅 Awarded **Best Collaborative Development** <a href="https://gdg.community.dev/events/details/google-gdg-on-campus-swami-vivekanand-institute-of-engineering-technology-chandigarh-india-presents-bharat-techxperience-30-national-level-30hrs-hackathon/" target="_blank" rel="noopener noreferrer">BharatTech Hackathon 3.0</a>
 - 🎓 B.Tech in IT @**Gl Bajaj Institute of Technology and Management**, Greater Noida  
-- 🌐 Portfolio: [Harsh Deep-Portfolio](https://portfolio-harshdeep.vercel.app/)  
-- 📫 How to reach me: [harshdeephdk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=harshdeephdk@gmail.com)
+- 🌐 Portfolio: <a href="https://portfolio-harshdeep.vercel.app/" target="_blank" rel="noopener noreferrer">Harsh Deep-Portfolio</a>  
+- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshdeephdk@gmail.com" target="_blank" rel="noopener noreferrer">harshdeephdk@gmail.com</a>
 
 <br>
 
 ## 🌐 Socials  
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshdeephdk@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshdeephdk@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/harshdeephdk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-harshdeep.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harshdeephdk" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-harshdeep.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <br>
