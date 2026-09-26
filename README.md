@@ -3,10 +3,6 @@
 </h1>
 
 
-
-
----
-
 ## 💫 About Me  
 - 💡 Passionate **App Developer** with a strong focus on **Android (Kotlin)** and **Web Development**  
 - 🎯 Skilled in **Kotlin, Java, C++, Python, Firebase, REST APIs**  
