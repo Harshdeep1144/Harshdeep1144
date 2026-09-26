@@ -5,7 +5,7 @@
 <br>
 
 ## 💫 About Me  
-- 💡 Passionate **App Developer** with a strong focus on **Android (Kotlin)** and **Web Development**  
+- 💡 Passionate **App Developer** with a strong focus on **Android (Kotlin)** and **Machine Learning**  
 - 🎯 Skilled in **Kotlin, Java, C++, Python, Firebase, REST APIs, RBAC, MVVM/Clean Architecture**  
 - 🚀 Always learning and exploring **AI, Object Detection, and Real life Problems**  
 - 🤝 Open to collaborations on unique and impactful projects
